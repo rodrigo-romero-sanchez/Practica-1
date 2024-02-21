@@ -1,0 +1,15 @@
+<html>
+ <head>
+    <title>Mi primera pagina web 4H</title>
+ </head>
+ <body>
+    <h1>Mi primera pagina</h1>
+    <p>Bienvenidos al mundo de la programacion web</p>
+    <br>
+    <label for="Nombre">Nombre</label>
+    <input type="text" name="Nombre" id="Nombre">
+    <button>ok</button>
+    <br>
+    <img src="img/MfDoom2.png" alt="" width="480">
+ </body>   
+</html>
